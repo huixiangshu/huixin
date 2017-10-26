@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>你好</title>
+<title>第三次作業</title>
 </head>
 <body>
 <a id="first">HERE</a>
-<h1>I want a cat</h1>
+<h1>你好</h1>
 <p>(1)</p>
 <img src="cat.jpg"/>
 <p>(2)</p>
