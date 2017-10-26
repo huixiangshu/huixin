@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>第三次作業</title>
+<title>Movie Introduction</title>
 </head>
 <body>
 <a id="first">   The Great Buddha+</a>
-<h1>電影:大佛普拉斯The Great Buddha+</h1>
+<h1>電影:大佛普拉斯</h1>
+<img src="Plas.jpg"/>
 <p>(1)</p>
-<img src="cat.jpg"/>
 <p>(2)</p>
 <hr>
 <h2>2</h2>
