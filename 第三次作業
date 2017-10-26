@@ -5,7 +5,7 @@
 <title>第三次作業</title>
 </head>
 <body>
-<a id="first">HERE</a>
+<a id="first">The Great Buddha+</a>
 <h1>電影:大佛普拉斯The Great Buddha+</h1>
 <p>(1)</p>
 <img src="cat.jpg"/>
@@ -17,6 +17,6 @@
 <h4>4</h4>
 <h5>5</h5>
 <h6>6</h6>
-<a href="#first">click here</a>
+<a href="#first">top</a>
 </body>
 </html>
