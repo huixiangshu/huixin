@@ -40,6 +40,6 @@
 <h5>5</h5>
 <h6>6</h6>
 <a href="1.html">go to 1</a>
-<a href="#first">top</a>
+<center><a href="#first">top</a></center>
 </body>
 </html>
